@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\Lab3_3_OP.exe
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\Lab3_3_OP.deps.json
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\Lab3_3_OP.runtimeconfig.json
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\Lab3_3_OP.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\Lab3_3_OP.dll
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\ref\Lab3_3_OP.dll
+C:\Users\User\source\repos\Lab3_3_OP\bin\Debug\net5.0\Lab3_3_OP.pdb
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.dll
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\ref\Lab3_3_OP.dll
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.pdb
+C:\Users\User\source\repos\Lab3_3_OP\obj\Debug\net5.0\Lab3_3_OP.genruntimeconfig.cache

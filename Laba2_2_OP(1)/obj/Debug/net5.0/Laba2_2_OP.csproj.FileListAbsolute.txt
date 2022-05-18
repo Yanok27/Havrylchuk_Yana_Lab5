@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.AssemblyInfo.cs
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\Laba2_2_OP.exe
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\Laba2_2_OP.deps.json
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\Laba2_2_OP.runtimeconfig.json
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\Laba2_2_OP.runtimeconfig.dev.json
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\Laba2_2_OP.dll
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\ref\Laba2_2_OP.dll
+C:\Users\User\source\repos\Laba2_2_OP(1)\bin\Debug\net5.0\Laba2_2_OP.pdb
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.dll
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\ref\Laba2_2_OP.dll
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.pdb
+C:\Users\User\source\repos\Laba2_2_OP(1)\obj\Debug\net5.0\Laba2_2_OP.genruntimeconfig.cache
