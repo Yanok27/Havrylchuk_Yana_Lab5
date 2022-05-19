@@ -29,6 +29,34 @@ namespace Lab4_OP
         {
             Console.WriteLine($"\nВ порту {ships.Count} кораблів");
         }
+        public static void PrintTotalCannons()
+        {
+            int result = 0;
+            foreach (Ship ship in ships)
+            {
+                if (ship is Warship) result += (ship as Warship).cannonry;
+            }
+            Console.WriteLine($"\nВ порту {result} гармат");
+        }
 
+        public static void PrintTotalMaxPeople()
+        {
+            int result = 0;
+            foreach (Ship ship in ships)
+            {
+                result += ship.people;
+            }
+            Console.WriteLine($"\nВ порту {result} пасажиромісткість");
+        }
+
+        public static void PrintMaxWeight()
+        {
+            int result = 0;
+            foreach (Ship ship in ships)
+            {
+                result += ship.maxWeight;
+            }
+            Console.WriteLine($"\nВ порту {result} пасажиромісткість");
+        }
     }
 }

@@ -28,6 +28,12 @@ namespace Lab4_OP
             fer.Move();
 
             Port.PringShipsCount();
+            
+            Port.PrintTotalCannons();
+
+            Port.PrintTotalMaxPeople();
+
+            Port.PrintMaxWeight();
 
         }
     }
